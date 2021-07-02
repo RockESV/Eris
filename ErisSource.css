@@ -305,10 +305,10 @@
 	height: 100%;
 	padding: 0 6px;
   }
-  #app-mount .message-2qnXI6 .button-1ZiXG9:hover {
-	background: rgba(var(--accent), 1);
-	color: #fff;
-  }
+#app-mount .message-2qnXI6 .button-1ZiXG9:hover {
+  background: rgba(var(--accent), 1);
+  color: #fff;
+}
   #app-mount .message-2qnXI6 .button-1ZiXG9.dangerous-2r8KxV:hover {
 	background: rgba(var(--discord-red)/1);
   }
@@ -646,9 +646,9 @@
   #app-mount .item-1tOPte {
 	line-height: normal;
   }
-  #app-mount .item-1tOPte:active, #app-mount .item-1tOPte.focused-3afm-j:not(.colorDanger-2qLCe1) {
-	background: rgba(var(--accent), 1);
-  }
+#app-mount .item-1tOPte:active, #app-mount .item-1tOPte.focused-3afm-j:not(.colorDanger-2qLCe1) {
+  background: rgba(var(--accent), 1);
+}
   #app-mount .item-1tOPte.colorPremium-p4p7qO {
 	color: rgba(var(--discord-nitro)/1);
   }

@@ -128,9 +128,8 @@
 }
 
 #app-mount .option-96V44q:after {
-	background: -webkit-gradient(linear, left top, right top, from(transparent), to(var(--background-light)));
-	background: linear-gradient(90deg, transparent, var(--background-light));
-  }
+	background: var(--background-secondary-alt);
+}
 
 .option-96V44q.selected-rZcOL- {
 	background: var(--background-secondary-alt);

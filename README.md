@@ -4,4 +4,4 @@ Gives Discord a darker, more elegant look, while maintaining its fundamental des
 
 Requires [BetterDiscord](https://betterdiscord.app/).
 
-<p align="center"><img src="https://i.imgur.com/aN6XufW.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://i.imgur.com/aN6XufW.png"></p>

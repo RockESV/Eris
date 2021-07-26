@@ -224,10 +224,10 @@
 }
 
 .repliedMessage-VokQwo:before {
-    border-left: var(--spine-width) solid #c2c2c2 !important;
-    border-bottom: 0 solid #c2c2c2 !important;
-    border-right: 0 solid #c2c2c2 !important;
-    border-top: var(--spine-width) solid #c2c2c2 !important;
+    border-left: var(--spine-width) solid #696969 !important;
+    border-bottom: 0 solid #696969 !important;
+    border-right: 0 solid #696969 !important;
+    border-top: var(--spine-width) solid #696969 !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

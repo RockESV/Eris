@@ -24,7 +24,7 @@
     --brand-experiment: #7289da !important;
     --brand-experiment-500: #7289da !important;
     --brand-experiment-560: #7289da !important;
-    --brand-experiment-600: #5b6eb3 !important;
+    --brand-experiment-600: #687fd3 !important;
     --font-display: 'Whitney' !important;
 }
 
@@ -174,10 +174,6 @@
     display: none !important;
 }
 
-.themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
-    background-color: var(--background-primary) !important;
-}
-
 .pageWrapper-1PgVDX {
     background-color: var(--background-primary) !important;
 }
@@ -231,7 +227,21 @@
 }
 
 .role-2irmRk {
-    background: var(--background-primary) !important;
+    background: #1a1b1f !important;
+    border-radius: 20px !important;
+}
+
+.bd-button-title {
+    background-color: var(--brand-experiment) !important;
+}
+
+.bd-view-button.selected {
+    background-color: var(--brand-experiment) !important;
+}
+
+.searchBar-3dMhjb {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

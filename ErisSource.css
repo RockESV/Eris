@@ -221,7 +221,7 @@
     border-radius: 20px !important;
 }
 
-.bd-button-title {
+.bd-button-title, .bd-controls .bd-addon-button:not(.bd-button-danger) {
     background-color: var(--brand-experiment) !important;
 }
 

@@ -4,6 +4,7 @@ Gives Discord a darker, more elegant look, while maintaining its fundamental des
 
 Requires [BetterDiscord](https://betterdiscord.app/).
 
+
 BetterDiscord download: https://betterdiscord.app/Download?id=371
 
 Powercord installation: `git clone https://github.com/RockESV/Eris`

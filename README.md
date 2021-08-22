@@ -2,6 +2,6 @@
 
 Gives Discord a darker, more elegant look, while maintaining its fundamental design. Restores the old Discord logo, colors, and fonts.
 
-Requires [BetterDiscord](https://betterdiscord.app/).
+Requires [BetterDiscord](https://betterdiscord.app/) or [Powercord](https://powercord.dev/).
 
 <p align="center"><img src="https://i.imgur.com/aN6XufW.png"></p>

@@ -121,10 +121,6 @@
     -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
-.selected-3s45Ha {
-    background-color: var(--brand-experiment) !important;
-}
-
 .container-3ayLPN {
 	background: var(--background-secondary-alt) !important;
 	box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
@@ -149,7 +145,7 @@
 }
 
 .selected-3s45Ha {
-    background-color: transparent !important;
+    background-color: var(--background-primary) !important;
 }
 
 .quickswitcher-3JagVE {

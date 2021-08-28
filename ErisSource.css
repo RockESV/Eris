@@ -30,8 +30,11 @@
     --font-display: 'Whitney' !important;
 }
 
-::-webkit-scrollbar {
-    display: none !important;
+.scroller-2LSbBU::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+.scroller-2LSbBU::-webkit-scrollbar-thumb {
+    background-color: transparent;
 }
 
 .container-1D34oG {
@@ -162,6 +165,10 @@
 
 .protip-1b9XPC {
     border-top: none !important;
+}
+
+.isUnread-3Ef-o9 .content-1o0f9g {
+    color: var(--divider-color) !important;
 }
 
 .content-1o0f9g {

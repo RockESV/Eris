@@ -37,6 +37,13 @@
     background-color: transparent;
 }
 
+.userPopout-xaxa6l .scrollerBase-289Jih::-webkit-scrollbar-track {
+    background-color: var(--background-secondary-alt);
+}
+.userPopout-xaxa6l .scrollerBase-289Jih::-webkit-scrollbar-thumb {
+    background-color: var(--background-primary);
+}
+
 .container-1D34oG {
     background-color: var(--background-primary) !important;
 }
@@ -210,6 +217,13 @@
 
 .embedFull-2tM8-- {
     background: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.messageAttachment-1aDidq {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .repliedMessage-VokQwo:before {

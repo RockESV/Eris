@@ -30,18 +30,11 @@
     --font-display: 'Whitney' !important;
 }
 
-.scroller-2LSbBU::-webkit-scrollbar-track {
-    background-color: transparent;
-}
-.scroller-2LSbBU::-webkit-scrollbar-thumb {
-    background-color: transparent;
-}
-
-.userPopout-xaxa6l .scrollerBase-289Jih::-webkit-scrollbar-track {
-    background-color: var(--background-secondary-alt);
-}
-.userPopout-xaxa6l .scrollerBase-289Jih::-webkit-scrollbar-thumb {
+.messagesWrapper-1sRNjr .scroller-2LSbBU::-webkit-scrollbar-track,.contentRegion-3nDuYy .scrollerBase-289Jih::-webkit-scrollbar-track {
     background-color: var(--background-primary);
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU::-webkit-scrollbar-thumb,.contentRegion-3nDuYy .scrollerBase-289Jih::-webkit-scrollbar-thumb {
+    background-color: var(--background-secondary-alt);
 }
 
 .container-1D34oG {
@@ -138,11 +131,11 @@
 }
 
 #app-mount .option-96V44q:after {
-	background: var(--background-secondary-alt);
+	background: transparent;
 }
 
-.option-96V44q.selected-rZcOL- {
-	background: var(--background-secondary-alt);
+#app-mount .option-96V44q.selected-rZcOL-:after {
+	background: linear-gradient(90deg,#23262a00,#23262a 50%)
 }
 
 .wrapper-3D2qGf, .channelName-1JRO3C, .scroller-3GIiMh {

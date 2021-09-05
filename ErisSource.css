@@ -37,6 +37,14 @@
     background-color: var(--background-secondary-alt);
 }
 
+.item-26Dhrx[aria-checked=true] {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.profileBannerPreview-3_l0Wd {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
 .container-1D34oG {
     background-color: var(--background-primary) !important;
 }
@@ -51,6 +59,7 @@
 
 .bd-addon-card {
     background: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
     padding: 0px 16px 16px;
 }
 
@@ -87,7 +96,6 @@
     border-top-right-radius: 5px !important;
     border-bottom-right-radius: 5px !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .wrapper-2jXpOf {
@@ -98,7 +106,6 @@
 .root-1gCeng {
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .small-3iVZYw {
@@ -111,23 +118,19 @@
 
 .scrollableContainer-2NUZem {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .userPopout-xaxa6l {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .userPopout-xaxa6l {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .container-3ayLPN {
 	background: var(--background-secondary-alt) !important;
 	box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 #app-mount .option-96V44q:after {
@@ -138,13 +141,17 @@
 	background: linear-gradient(90deg,#23262a00,#23262a 50%)
 }
 
+.wrapper-3D2qGf {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+    border: none !important;
+}
+
 .wrapper-3D2qGf, .channelName-1JRO3C, .scroller-3GIiMh {
     background-color: var(--background-secondary-alt) !important;
 }
 
 .menu-3sdvDG {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .selected-3s45Ha {
@@ -153,13 +160,11 @@
 
 .quickswitcher-3JagVE {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .input-2VB9rf {
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
     color: var(--text-normal) !important;
 }
 
@@ -211,12 +216,10 @@
 .embedFull-2tM8-- {
     background: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .messageAttachment-1aDidq {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .repliedMessage-VokQwo:before {
@@ -241,7 +244,6 @@
 
 .searchBar-3dMhjb {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .buttonColor-7qQbGO {
@@ -282,7 +284,6 @@
 .uploadModal-2ifh8j {
     background-color: var(--background-primary) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .footer-3mqk7D {
@@ -307,7 +308,10 @@
 .wrapper-35wsBm {
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    -webkit-box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.selected-aXhQR6 .layout-2DM8Md {
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

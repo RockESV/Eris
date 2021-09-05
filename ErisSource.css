@@ -11,6 +11,7 @@
     --background-tertiary: var(--background-secondary-alt) !important;
     --background-modifier-active: var(--background-primary) !important;
     --background-modifier-selected: var(--background-secondary-alt) !important;
+    --background-message-hover: transparent !important;
     --background-accent: var(--background-primary) !important;
     --background-floating: var(--background-secondary-alt) !important;
     --scrollbar-thin-thumb: var(--background-secondary-alt) !important;
@@ -310,8 +311,12 @@
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
-.selected-aXhQR6 .layout-2DM8Md {
+.selected-aXhQR6 .layout-2DM8Md, .searchBarComponent-32dTOx, .accountProfileCard-1XCH88 {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.actionButton-uPB8Fs {
+    background-color: transparent !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

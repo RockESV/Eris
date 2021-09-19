@@ -190,7 +190,7 @@
     background-color: var(--background-primary) !important;
 }
 
-.footer-2gL1pp {
+.footer-2gL1pp:not(.footer-1JuRYY) {
     background-color: var(--background-secondary-alt) !important;
     box-shadow: none !important;
     -webkit-box-shadow: none !important;
@@ -295,12 +295,24 @@
     padding-top: 0px !important;
 }
 
+.checkbox-1ix_J3 {
+    border-color: var(--background-secondary-alt) !important;    
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
 .checkbox-1ix_J3.checked-3_4uQ9 {
     border-color: var(--brand-experiment) !important;
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .checkbox-1ix_J3.checked-3_4uQ9 svg path {
     fill: var(--brand-experiment) !important;
+}
+
+.checkbox-1ix_J3.flexCenter-3_1bcw.flex-1O1GKY.justifyCenter-3D2jYp.alignCenter-1dQNNs.box-mmYMsp.checked-3_4uQ9 {
+    background-color: var(--background-primary) !important;
 }
 
 .betaBadge-1VY8Cw {
@@ -359,6 +371,21 @@
 
 .reaction-1hd86g:not(.reactionMe-wv5HKu) {
     background-color: var(--background-secondary-alt) !important;
+}
+
+.formFieldWrapper-malor5 {
+    border: none !important;
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.autocomplete-1vrmpx {
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.theme-dark .selected-1Tbx07 {
+    background-color: var(--background-primary) !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

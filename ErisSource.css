@@ -31,6 +31,7 @@
     --brand-experiment-500: #7289da !important;
     --brand-experiment-560: #7289da !important;
     --brand-experiment-600: #687fd3 !important;
+    --brand-experiment-15a: #7288da26 !important;
     --font-display: 'Whitney' !important;
 }
 
@@ -354,6 +355,10 @@
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.reaction-1hd86g:not(.reactionMe-wv5HKu) {
+    background-color: var(--background-secondary-alt) !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

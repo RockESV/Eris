@@ -35,6 +35,10 @@
     --font-display: 'Whitney' !important;
 }
 
+.scroller-3GIiMh.thin-1ybCId {
+    --scrollbar-thin-thumb: var(--background-primary) !important;
+}
+
 .scroller-2ZPeAD {
     border-left: none !important;
 }

@@ -20,18 +20,19 @@
     --channels-default: #c2c2c2 !important;
     --channeltextarea-background: var(--background-secondary-alt) !important;
     --deprecated-text-input-bg: var(--background-primary) !important;
-    --text-normal: #ffffff;
+    --text-normal: #ffffff !important;
     --text-muted: var(--channels-default) !important;
+    --text-timestamp: #969696 !important;
     --header-primary: var(--text-normal) !important;
     --header-secondary: var(--channels-default) !important;
     --interactive-active: #ffffff !important;
     --interactive-normal: #d0d1d4 !important;
     --interactive-hover: #eeeeee !important;
-    --brand-experiment: #7289da !important;
-    --brand-experiment-500: #7289da !important;
-    --brand-experiment-560: #7289da !important;
-    --brand-experiment-600: #687fd3 !important;
-    --brand-experiment-15a: #7288da26 !important;
+    --brand-experiment: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
+    --brand-experiment-500: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
+    --brand-experiment-560: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
+    --brand-experiment-600: hsl(227, calc(var(--saturation-factor, 1)*55%), 62%) !important;
+    --brand-experiment-15a: hsla(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.149) !important;
     --font-display: 'Whitney' !important;
 }
 
@@ -83,7 +84,7 @@
 }
 
 .timestamp-3ZCmNB {
-    color: #969696 !important;
+    color: var(--text-timestamp) !important;
 }
 
 .content-1x5b-n {
@@ -141,10 +142,6 @@
 
 #app-mount .option-96V44q:after {
 	background: transparent;
-}
-
-#app-mount .option-96V44q.selected-rZcOL-:after {
-	background: linear-gradient(90deg,#23262a00,#23262a 50%)
 }
 
 .wrapper-3D2qGf {
@@ -284,7 +281,7 @@
 }
 
 .colorDanger-2qLCe1:active:not(.hideInteraction-1iH010) {
-    background-color: #a12d2f !important;
+    background-color: hsl(359,calc(var(--saturation-factor, 1)*56%), 40%) !important;
 }
 
 .uploadModal-2ifh8j {
@@ -377,7 +374,7 @@
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-malor5 {
+.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
@@ -390,6 +387,10 @@
 
 .theme-dark .selected-1Tbx07 {
     background-color: var(--background-primary) !important;
+}
+
+.focused-2bY0OD {
+    background-color: var(--background-secondary-alt) !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {

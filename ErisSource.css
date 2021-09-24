@@ -196,6 +196,10 @@
     background-color: var(--brand-experiment) !important;
 }
 
+.focusLock-Ns3yie[aria-label="User Profile Modal"] .selected-3s45Ha {
+    background-color: transparent !important;
+}
+
 .quickswitcher-3JagVE {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
@@ -416,7 +420,7 @@
     color: var(--text-normal) !important;
 }
 
-.userPopout-xaxa6l .input-cIJ7To {
+.userPopout-xaxa6l .input-cIJ7To, .focusLock-Ns3yie[aria-label="User Profile Modal"] .input-cIJ7To {
     border: 1px solid var(--background-primary) !important;
     border-radius: 5px !important;
     box-shadow: none !important;

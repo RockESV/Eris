@@ -403,21 +403,16 @@
     margin-top: 8px !important;
 }
 
-.bd-select {
-    border: none !important;
-    background-color: var(--background-secondary-alt) !important;
-    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-}
-
 .reaction-1hd86g:not(.reactionMe-wv5HKu) {
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd {
+.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd, .cardWrapper-2Min21, .codeRedemptionRedirect-1wVR4b, .feature-2w65J5, .accountList-33MS45, .bd-search-wrapper, .bd-select {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
     color: var(--text-normal) !important;
+    border-radius: 5px !important;
 }
 
 .userPopout-xaxa6l .input-cIJ7To, .focusLock-Ns3yie[aria-label="User Profile Modal"] .input-cIJ7To {
@@ -446,6 +441,16 @@
 
 .answer-1n6g43, .header-2N-gMV {
     color: var(--text-timestamp) !important;
+}
+
+.connectionOptionsWrapper-3KIj1Z {
+    background-color: var(--background-secondary-alt) !important;
+    border-radius: 0 0 8px 8px !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
+}
+
+.bd-controls-advanced .bd-select {
+    padding: 4px 0 !important;
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg > g > path:first-child {
@@ -478,7 +483,7 @@ svg.homeIcon-FuNwkv > path {
 [src="/assets/7c8f476123d28d103efe381543274c25.png"] {
     content: url(https://discord.com/assets/dd4dbc0016779df1378e7812eabaa04d.png);
 }
-  [src="/assets/6f26ddd1bf59740c536d2274bb834a05.png"] {
+[src="/assets/6f26ddd1bf59740c536d2274bb834a05.png"] {
     content: url(https://discord.com/assets/0e291f67c9274a1abdddeb3fd919cbaa.png);
 }
 [src="/assets/3c6ccb83716d1e4fb91d3082f6b21d77.png"] {

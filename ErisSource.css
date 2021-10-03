@@ -339,16 +339,16 @@
 
 .checkbox-1ix_J3.checked-3_4uQ9 {
     border-color: var(--brand-experiment) !important;
-    background-color: var(--background-secondary-alt) !important;
+    background-color: var(--brand-experiment) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .checkbox-1ix_J3.checked-3_4uQ9 svg path {
-    fill: var(--brand-experiment) !important;
+    fill: white !important;
 }
 
 .checkbox-1ix_J3.flexCenter-3_1bcw.flex-1O1GKY.justifyCenter-3D2jYp.alignCenter-1dQNNs.box-mmYMsp.checked-3_4uQ9 {
-    background-color: var(--background-primary) !important;
+    background-color: var(--brand-experiment) !important;
 }
 
 .betaBadge-1VY8Cw {
@@ -403,7 +403,7 @@
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd, .cardWrapper-2Min21, .codeRedemptionRedirect-1wVR4b, .feature-2w65J5, .accountList-33MS45, .bd-search-wrapper, .bd-select, .contentRegionScroller-26nc1e .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .spoilerText-3p6IlD {
+.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd, .cardWrapper-2Min21, .codeRedemptionRedirect-1wVR4b, .feature-2w65J5, .accountList-33MS45, .bd-search-wrapper, .bd-select, .contentRegionScroller-26nc1e .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .spoilerText-3p6IlD.hidden-HHr2R9, .container-2VW0UT.elevationHigh-1PneE4, .connectedAccount-2Jb-Z0, .copyInputDefault-21sXtF.copyInput-2rOSt7, .lookFilled-22uAsw.select-2fjwPw, .popout-VcNcHB, .tier-2pEkRl, .auditLog-2ph_aK, .card-o7rAq- {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
@@ -411,10 +411,30 @@
     border-radius: 5px !important;
 }
 
-.userPopout-xaxa6l .input-cIJ7To, .focusLock-Ns3yie[aria-label="User Profile Modal"] .input-cIJ7To {
-    border: 1px solid var(--background-primary) !important;
-    border-radius: 5px !important;
+.userPopout-xaxa6l .input-cIJ7To, .focusLock-Ns3yie[aria-label="User Profile Modal"] .input-cIJ7To, .focusLock-Ns3yie[aria-label="Edit Server Profile"] .input-cIJ7To , .connectedAccount-2Jb-Z0, .focusLock-Ns3yie[aria-label="Set a custom status"] .input-cIJ7To, .focusLock-Ns3yie[aria-label="Set a custom status"] .lookFilled-22uAsw, .root-1gCeng .input-cIJ7To {
+    background-color: var(--background-primary) !important;
     box-shadow: none !important;
+}
+
+.lookOutlined-3sRXeN.colorBrand-3pXr91 {
+    background-color: var(--brand-experiment) !important;
+    border: none !important;
+    color: white !important;
+}
+
+.auditLog-2ph_aK {
+    margin-bottom: 10px !important;
+}
+
+.tierHeaderLocked-3S508x, .tierBody-3aUxuc, .tierIconLocked-3jQkNk, .tierTitle-1zWf2L {
+    background-color: transparent !important;
+    color: var(--text-normal) !important;
+}
+
+.background-3xPPFc, .tierInProgress-3mBoXq {
+    color: var(--background-secondary-alt) !important;
+    background-color: var(--background-secondary-alt) !important;
+    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
 .autocomplete-1vrmpx {

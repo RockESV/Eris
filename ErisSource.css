@@ -91,7 +91,7 @@
     background-color: var(--background-primary) !important;
 }
 
-.sidebarRegionScroller-3MXcoP {
+.sidebarRegionScroller-3MXcoP, .jumpButton-3DTcS_ {
     background: var(--background-secondary-alt) !important;
 }
 
@@ -272,7 +272,7 @@
     border-radius: 20px !important;
 }
 
-.bd-button-title, .bd-controls .bd-addon-button:not(.bd-button-danger) {
+.bd-button-title, .bd-controls .bd-addon-button:not(.bd-button-danger), .button-F9qN4n.focused-3ZzkKr {
     background-color: var(--brand-experiment) !important;
 }
 
@@ -306,7 +306,7 @@
     color: var(--text-normal) !important;
 }
 
-.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover, .button-1YfofB .buttonColor-7qQbGO.buttonActive-3FrkXp:hover {
+.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover, .button-1YfofB .buttonColor-7qQbGO.buttonActive-3FrkXp:hover     {
     background-color: hsl(139,calc(var(--saturation-factor, 1)*51.6%),52.2%) !important;
     color: var(--text-normal) !important;
 }
@@ -403,12 +403,40 @@
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd, .cardWrapper-2Min21, .codeRedemptionRedirect-1wVR4b, .feature-2w65J5, .accountList-33MS45, .bd-search-wrapper, .bd-select, .contentRegionScroller-26nc1e .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .spoilerText-3p6IlD.hidden-HHr2R9, .container-2VW0UT.elevationHigh-1PneE4, .connectedAccount-2Jb-Z0, .copyInputDefault-21sXtF.copyInput-2rOSt7, .lookFilled-22uAsw.select-2fjwPw, .popout-VcNcHB, .tier-2pEkRl, .auditLog-2ph_aK, .card-o7rAq- {
+.formFieldWrapper-malor5, .cardPrimary-1Hv-to, .customizationSection-2ns2M6 .input-cIJ7To, .input-cIJ7To, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-cMG81i, .container-_phMUq, .authedApp-mj2Hmd, .cardWrapper-2Min21, .codeRedemptionRedirect-1wVR4b, .feature-2w65J5, .accountList-33MS45, .bd-search-wrapper, .bd-select, .contentRegionScroller-26nc1e .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .spoilerText-3p6IlD.hidden-HHr2R9, .container-2VW0UT.elevationHigh-1PneE4, .connectedAccount-2Jb-Z0, .copyInputDefault-21sXtF.copyInput-2rOSt7, .lookFilled-22uAsw.select-2fjwPw, .popout-VcNcHB, .tier-2pEkRl, .auditLog-2ph_aK, .card-o7rAq-, .messagesPopout-24nkyi .messageAttachment-1aDidq, .messagesPopout-24nkyi, .messagesPopoutWrap-1MQ1bW {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
     color: var(--text-normal) !important;
     border-radius: 5px !important;
+}
+
+.messagesPopoutWrap-1MQ1bW {
+    border-radius: 5px !important;
+}
+
+.messagesPopoutWrap-1MQ1bW .header-ykumBX {
+    padding: 16px 16px 8px !important;
+    box-shadow: none !important;
+}
+
+.messagesPopout-24nkyi {
+    border-radius: 0 !important;
+}
+
+.messageGroupWrapper-o-Zw7G  {
+    background-color: var(--background-primary) !important;
+    border: none !important;
+    border-radius: 5px !important;
+    margin: 0 0 8px !important;
+}
+
+.textContainer-C0szpm {
+    background-color: var(--background-secondary-alt) !important;
+}
+
+.body-r6_QPy {
+    height: 300px !important;
 }
 
 .userPopout-xaxa6l .input-cIJ7To, .focusLock-Ns3yie[aria-label="User Profile Modal"] .input-cIJ7To, .focusLock-Ns3yie[aria-label="Edit Server Profile"] .input-cIJ7To , .connectedAccount-2Jb-Z0, .focusLock-Ns3yie[aria-label="Set a custom status"] .input-cIJ7To, .focusLock-Ns3yie[aria-label="Set a custom status"] .lookFilled-22uAsw, .root-1gCeng .input-cIJ7To {
@@ -479,7 +507,7 @@
     padding: 6px 9px 0px !important;
 }
 
-svg.homeIcon-FuNwkv > path {
+svg.homeIcon-AaowEC > path {
     d: path("M24.59,2.5a31.62,31.62,0,0,1,3.46,13.87S26,19.84,20.72,20c0,0-.86-1-1.58-1.93a7.51,7.51,0,0,0,4.35-2.84,14.6,14.6,0,0,1-2.77,1.42,18,18,0,0,1-3.49,1,17.07,17.07,0,0,1-6.23,0,18.38,18.38,0,0,1-3.52-1,14.22,14.22,0,0,1-1.76-.82l-.23-.12-.1-.06a6.77,6.77,0,0,1-.66-.41A7.38,7.38,0,0,0,8.93,18c-.72.91-1.6,2-1.6,2C2,19.84,0,16.37,0,16.37A31.62,31.62,0,0,1,3.46,2.5,11.82,11.82,0,0,1,10.19,0l.25.28A15.89,15.89,0,0,0,4.13,3.41a13.75,13.75,0,0,1,1.43-.68A18.28,18.28,0,0,1,11,1.22l.4-.05a20.62,20.62,0,0,1,4.86,0A19.78,19.78,0,0,1,23.5,3.41a15.92,15.92,0,0,0-6-3L17.86,0A11.84,11.84,0,0,1,24.59,2.5ZM18.4,14.12a2.54,2.54,0,0,0,2.46-2.63,2.47,2.47,0,1,0-4.92,0A2.54,2.54,0,0,0,18.4,14.12Zm-8.85,0A2.54,2.54,0,0,0,12,11.49,2.55,2.55,0,0,0,9.55,8.86a2.55,2.55,0,0,0-2.46,2.63A2.53,2.53,0,0,0,9.55,14.12Z") !important;
 }
 

@@ -6,6 +6,8 @@
 
 :root {
     --brand-experiment: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
+    --brand-experiment-200: white !important;
+    --brand-experiment-30a: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.1) !important;
     --brand-experiment-500: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
     --brand-experiment-560: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
     --brand-experiment-600: hsl(227, calc(var(--saturation-factor, 1)*55%), 62%) !important;
@@ -381,6 +383,10 @@
 .attachment-1PZZB2 {
     background-color: var(--background-secondary-alt) !important;
     border: none !important
+}
+
+.interactive:hover {
+    background-color: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.3);
 }
 
 .theme-dark .inset-SbsSFp {

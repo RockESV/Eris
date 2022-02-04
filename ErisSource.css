@@ -12,7 +12,7 @@
     --brand-experiment-560: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
     --brand-experiment-600: hsl(227, calc(var(--saturation-factor, 1)*55%), 62%) !important;
     --brand-experiment-15a: hsla(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.149) !important;
-    --font-display: 'Whitney' !important;
+    --font-display: 'SF Pro' !important;
 }
 
 .theme-dark {

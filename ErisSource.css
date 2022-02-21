@@ -165,12 +165,8 @@
 	box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
-#app-mount .option-2KkUJO:after {
+#app-mount .option-ayUoaq:after {
 	background: transparent;
-}
-
-#app-mount .option-2KkUJO.selected-rZcOL-:after {
-	background: linear-gradient(90deg,transparent, var(--highlight-color) 50%)
 }
 
 .wrapper-2RrXDg {

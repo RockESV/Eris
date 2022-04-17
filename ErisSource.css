@@ -5,7 +5,7 @@
 }
 
 :root {
-    --brand-experiment: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
+    --brand-experiment: #7288da !important;
     --brand-experiment-200: white !important;
     --brand-experiment-30a: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.1) !important;
     --brand-experiment-500: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
@@ -270,7 +270,7 @@
     background-color: var(--brand-experiment) !important;
 }
 
-.searchBar-zdmu7v {
+.searchBar-jGtisZ {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
 
@@ -394,7 +394,7 @@ code {
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-2LV3S6, .cardPrimary-3qRT__, .customizationSection-IGy2fS .input-2g-os5, .input-2g-os5, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-2oNtJn, .container-3EtAkD, .authedApp-1tw-eT, .cardWrapper-CyvwQv, .codeRedemptionRedirect-3SBiCp, .feature-2IUcBI, .accountList-305sx3, .bd-search-wrapper, .bd-select, .contentRegionScroller-2_GT_N .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .spoilerText-27bIiA.hidden-3B-Rum, .container-20TyK0.elevationHigh-28Pty4, .connectedAccount-1xKpli, .copyInputDefault-3jiMHw.copyInput-3AbKWB, .lookFilled-1GseHa.select-1Ia3hD, .popout-1KHNAq, .tier-3CS7-p, .auditLog-1NVAY0, .card-o7rAq-, .messagesPopout-eVzQcI .messageAttachment-CZp8Iv, .messagesPopoutWrap-3zryHW, .selected-3veCBZ, .embedWrapper-1MtIDg.container-rr3Ruk {
+.formFieldWrapper-2LV3S6, .cardPrimary-3qRT__, .customizationSection-IGy2fS .input-2g-os5, .input-2g-os5, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-2oNtJn, .container-3EtAkD, .authedApp-8q3NA9, .cardWrapper-1bSePP, .codeRedemptionRedirect-2hYMSQ, .feature-2IUcBI, .accountList-305sx3, .bd-search-wrapper, .bd-select, .contentRegionScroller-2_GT_N .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .spoilerText-27bIiA.hidden-3B-Rum, .container-20TyK0.elevationHigh-28Pty4, .connectedAccount-1xKpli, .copyInputDefault-3jiMHw.copyInput-3AbKWB, .lookFilled-1GseHa.select-1Ia3hD, .popout-1KHNAq, .tier-3CS7-p, .auditLog-1NVAY0, .card-o7rAq-, .messagesPopout-eVzQcI .messageAttachment-CZp8Iv, .messagesPopoutWrap-3zryHW, .selected-3veCBZ, .embedWrapper-1MtIDg.container-rr3Ruk, .item-3mHhwr.item-3XjbnG.selected-g-kMVV.themed-2-lozF, .voiceUser-3nRK-K.selected-1oxcpH, .bioTextArea-dDGOeC, .cameraWrapper-3a7Ngv {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
@@ -482,7 +482,7 @@ code {
     color: var(--text-timestamp) !important;
 }
 
-.connectionOptionsWrapper-1ipqUo {
+.connectionOptionsWrapper-3aVWcp {
     background-color: var(--background-secondary-alt) !important;
     border-radius: 0 0 8px 8px !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
@@ -490,6 +490,14 @@ code {
 
 .bd-controls-advanced .bd-select {
     padding: 4px 0 !important;
+}
+
+.lookFilled-yCfaCM.colorBrandNew-2-gGsS {
+    background-color: var(--brand-experiment) !important;
+}
+
+img.image-ZPv20Y {
+    content:url(https://i.imgur.com/Sr7Xhle.png) !important;
 }
 
 .typeWindows-2-g3UY > .wordmark-2u86JB > svg > g > path:first-child {

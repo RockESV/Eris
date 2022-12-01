@@ -4,6 +4,11 @@
 	display: block;
 }
 
+@font-face{
+    font-family: "Whitney";
+    src: url('Resources/whitney.otf')
+}
+
 :root {
     --brand-experiment: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
     --brand-experiment-200: white !important;
@@ -12,6 +17,7 @@
     --brand-experiment-560: hsl(227, calc(var(--saturation-factor, 1)*58%), 65%) !important;
     --brand-experiment-600: hsl(227, calc(var(--saturation-factor, 1)*55%), 62%) !important;
     --brand-experiment-15a: hsla(227, calc(var(--saturation-factor, 1)*58%), 65%, 0.149) !important;
+    --font-primary: 'Whitney' !important;
     --font-display: 'Whitney' !important;
 }
 
@@ -120,25 +126,18 @@
     color: var(--text-timestamp) !important;
 }
 
-.containerDefault-YUSmu3 .content-1gYQeQ:not(.container-1Bj0eq .content-1gYQeQ) {
+.content-1gYQeQ {
     padding-left: 12px !important;
     margin-left: 4px !important;
     border-top-left-radius: 0px !important;
     border-bottom-left-radius: 0px !important;
 }
 
-.selected-2TbFu:not(.modeSelected-3DmyhH .selected-2TbFu), .modeSelected-3DmyhH:not(.typeThread-2Aqh6X) {
+.selected-2TbFuo, .modeSelected-3DmyhH {
     background-color: var(--brand-experiment) !important;
     border-top-right-radius: 5px !important;
     border-bottom-right-radius: 5px !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-}
-
-.modeSelected-3DmyhH.typeThread-2Aqh6X .content-1gYQeQ {
-    box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
-    border-left: 3px solid var(--brand-experiment) !important;
-    border-top-left-radius: 0px !important;
-    border-bottom-left-radius: 0px !important;
 }
 
 .wrapper-NhbLHG {
@@ -263,15 +262,6 @@
     border-bottom: 0 solid var(--text-timestamp) !important;
     border-right: 0 solid var(--text-timestamp) !important;
     border-top: var(--spine-width) solid var(--text-timestamp) !important;
-}
-
-.container-1Bj0eq .spine-29OFwR {
-    color: var(--text-timestamp) !important;
-}
-
-.hasThread-3h-KJV.isSystemMessage-QNv9ZH:after {
-    border-left: 2px solid var(--text-timestamp);
-    border-bottom: 2px solid var(--text-timestamp);
 }
 
 .role-2TIOKu {
@@ -407,11 +397,11 @@ code {
     margin-top: 8px !important;
 }
 
-.reaction-3vwAF2:not(.reactionMe-3I9gFK), .colorHeaderSecondary-g5teka.size14-3fJ-ot.footer-GXWBBp {
+.reaction-2A2y9y:not(.reactionMe-3I9gFK), .colorHeaderSecondary-g5teka.size14-3fJ-ot.footer-GXWBBp {
     background-color: var(--background-secondary-alt) !important;
 }
 
-.formFieldWrapper-2LV3S6, .cardPrimary-3qRT__, .customizationSection-IGy2fS .input-2g-os5, .input-2g-os5, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-2oNtJn, .container-3EtAkD, .authedApp-8q3NA9, .cardWrapper-1bSePP, .codeRedemptionRedirect-2hYMSQ, .feature-2IUcBI, .accountList-305sx3, .bd-search-wrapper, .bd-select, .contentRegionScroller-2_GT_N .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .spoilerText-27bIiA.hidden-3B-Rum, .container-20TyK0.elevationHigh-28Pty4, .connection-YOVI9j, .copyInputDefault-3jiMHw.copyInput-3AbKWB, .lookFilled-1GseHa.select-1Ia3hD, .popout-1KHNAq, .tier-3CS7-p, .auditLog-1NVAY0, .card-PQEqCK, .messagesPopout-eVzQcI .messageAttachment-CZp8Iv, .messagesPopoutWrap-3zryHW, .selected-3veCBZ, .embedWrapper-1MtIDg.container-rr3Ruk, .item-3mHhwr.item-3XjbnG.selected-g-kMVV.themed-2-lozF, .voiceUser-3nRK-K.selected-1oxcpH, .bioTextArea-dDGOeC, .cameraWrapper-3a7Ngv {
+.formFieldWrapper-2LV3S6, .cardPrimary-3qRT__, .customizationSection-IGy2fS .input-2g-os5, .input-2g-os5, .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .css-gvi9bl-control, .css-x3hllb-control, .css-6fzn47-control, .css-1ou54ee-control, .css-118dehu-control, .css-3vaxre-menu, .css-1x99fvh-menu, .css-17e1tep-control, .container-2oNtJn, .container-3EtAkD, .authedApp-8q3NA9, .cardWrapper-1bSePP, .codeRedemptionRedirect-2hYMSQ, .feature-2IUcBI, .accountList-305sx3, .bd-search-wrapper, .bd-select, .contentRegionScroller-2_GT_N .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .spoilerText-27bIiA.hidden-3B-Rum, .container-20TyK0.elevationHigh-28Pty4, .connectedAccount-1xKpli, .copyInputDefault-3jiMHw.copyInput-3AbKWB, .lookFilled-1GseHa.select-1Ia3hD, .popout-1KHNAq, .tier-3CS7-p, .auditLog-1NVAY0, .card-o7rAq-, .messagesPopout-eVzQcI .messageAttachment-CZp8Iv, .messagesPopoutWrap-3zryHW, .selected-3veCBZ, .embedWrapper-1MtIDg.container-rr3Ruk, .item-3mHhwr.item-3XjbnG.selected-g-kMVV.themed-2-lozF, .voiceUser-3nRK-K.selected-1oxcpH, .bioTextArea-dDGOeC, .cameraWrapper-3a7Ngv {
     border: none !important;
     background-color: var(--background-secondary-alt) !important;
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;

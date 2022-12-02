@@ -6,7 +6,57 @@
 
 @font-face{
     font-family: "Whitney";
-    src: url('Resources/whitney.otf')
+    src: url('/Resources/Fonts/whitney-light.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-light-italic.otf');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-italic.otf');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-medium.otf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-medium-italic.otf');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-semibold.otf');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-semibold-italic.otf');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face{
+    font-family: "Whitney";
+    src: url('/Resources/Fonts/whitney-bold.otf');
+    font-weight: 700;
+    font-style: normal;
 }
 
 :root {

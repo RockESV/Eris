@@ -1,12 +1,10 @@
-<a align="center" href="https://betterdiscord.app/theme/Eris"><img align="center" src="https://raw.githubusercontent.com/RockESV/Eris/main/assets/logo/eris-logo-readme.svg" width=80% height=80%></a>
+    <p align="center"><a align="center" href="https://betterdiscord.app/theme/Eris"><img align="center" src="https://raw.githubusercontent.com/RockESV/Eris/main/assets/logo/eris-logo-readme.svg" width=80% height=80%></a></p>
 
-Gives Discord a darker, more elegant look, while maintaining its fundamental design. Restores the old Discord logo, colors, and fonts.
+<p>Gives Discord a darker, more elegant look, while maintaining its fundamental design. Restores the old Discord logo, colors, and fonts.</p>
 
-Requires [BetterDiscord](https://betterdiscord.app/).
+<p>Requires [BetterDiscord](https://betterdiscord.app/).</p>
 
 - - -
-BetterDiscord download: https://betterdiscord.app/theme/Eris
-
-Powercord installation: `git clone https://github.com/RockESV/Eris`
+<p>Download: https://betterdiscord.app/theme/Eris<p>
 - - -
 <p align="center"><img src="https://i.imgur.com/aN6XufW.png"></p>

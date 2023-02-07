@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/RockESV/Eris/main/assets/logo/eris-logo-readme.svg"></p>
+<a align="center" href="https://betterdiscord.app/theme/Eris"><img src="https://raw.githubusercontent.com/RockESV/Eris/main/assets/logo/eris-logo-readme.svg" width=80% height=80%></a>
 
 Gives Discord a darker, more elegant look, while maintaining its fundamental design. Restores the old Discord logo, colors, and fonts.
 

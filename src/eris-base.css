@@ -294,3 +294,8 @@
 #emoji-picker-tab-panel .searchBar-2M9mRP { /* Emoji picker search bar */
     box-shadow: var(--box-shadow);
 }
+
+.embedFull-1HGV2S { /* Styling for embeds */
+    background-color: var(--background-tertiary);
+    box-shadow: var(--box-shadow);
+}

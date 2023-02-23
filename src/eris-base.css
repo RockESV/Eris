@@ -259,3 +259,38 @@
 .jumpToPresentBar-1cEnH0:active {
     margin-bottom: 15px;
 }
+
+:root .spoilerText-2G40u0.hidden-2lQZ5q, .markup-eYLPri pre code { /* Styling for code blocks and spoilers */
+    background-color: var(--background-tertiary);
+    box-shadow: var(--box-shadow);
+}
+
+.markup-eYLPri blockquote, .markup-eYLPri pre {
+    margin-bottom: 5px;
+}
+
+:root .spoilerText-2G40u0.hidden-2lQZ5q:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.newMosaicStyle-2jdUaP .textContainer-36wgKK, .newMosaicStyle-2jdUaP .footer-GXWBBp, .newMosaicStyle-2jdUaP .codeView-12LUIl, .attachment-1PZZB2 { /* Styling for attachments */
+    border: none;
+    background-color: transparent;
+}
+
+.attachmentContentItem-UKeiCx {
+    background-color: var(--background-tertiary);
+    box-shadow: var(--box-shadow);
+    border-radius: 8px;
+}
+
+.hoverButtonGroup-2yZIzC.nonMediaAttachment-3C_4Pd {
+    outline: none;
+    top: 8px;
+    right: 8px;
+    background-color: transparent;
+}
+
+#emoji-picker-tab-panel .searchBar-2M9mRP { /* Emoji picker search bar */
+    box-shadow: var(--box-shadow);
+}

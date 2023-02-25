@@ -299,3 +299,8 @@
     background-color: var(--background-tertiary);
     box-shadow: var(--box-shadow);
 }
+
+.wrapper-2vIMkT, .reaction-3vwAF2 { /* Styling for message buttons and reactions */
+    background-color: var(--background-tertiary);
+    box-shadow: var(--box-shadow);
+}

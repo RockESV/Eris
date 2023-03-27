@@ -304,3 +304,7 @@
     background-color: var(--background-tertiary);
     box-shadow: var(--box-shadow);
 }
+
+.wrapper-2SplAX {   /* Box shadow for "Follow to get this channel's updates in your own server." wrapper */
+    box-shadow: var(--box-shadow);
+}

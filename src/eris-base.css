@@ -68,7 +68,7 @@
     background-color: var(--brand-experiment);
 }
 
-.accountProfileCard-lbN7n-, .bioTextArea-dDGOeC, .input-3O04eu:not(.note-6O4w9y .textarea-_59yqs, .multiInputField-1zyopx, .note-3TX9O7 .textarea-_59yqs), .lookFilled-GPyucw.select-Zz0IcO, .itemFilled-2Fo7lr[aria-checked=true], .feedback-2YPzZb { /* Box shadow for various boxes in Settings */
+.accountProfileCard-lbN7n-, .bioTextArea-dDGOeC, .input-3O04eu:not(.note-1NN2aP .textarea-_59yqs, .multiInputField-1zyopx, .note-3TX9O7 .textarea-_59yqs), .lookFilled-GPyucw.select-Zz0IcO, .itemFilled-2Fo7lr[aria-checked=true], .feedback-2YPzZb { /* Box shadow for various boxes in Settings */
     box-shadow: var(--box-shadow);
 }
 

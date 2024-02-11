@@ -218,7 +218,7 @@ ul.content__23cab[aria-label="Direct Messages"]:nth-child(2) .interactive__776ee
     box-shadow: var(--box-shadow);
 }
 
-.containerDefault__3187b.selected__3b4cb { /* Styling for selected channel or thread */
+.containerDefault__3187b.selected__3b4cb, .containerDefault__3187b.wrapper__7bcde.modeSelected__487d6 { /* Styling for selected channel or thread */
     box-shadow: var(--box-shadow);
     background-color: var(--background-tertiary);
     margin-left: 0;
@@ -250,7 +250,7 @@ ul.content__23cab[aria-label="Direct Messages"]:nth-child(2) .interactive__776ee
     border: none;
 }
 
-.container-3i3IzO, .card-PQEqCK, .submitContainer_b4471d .channelTextArea_c27a51.channelTextArea__56a36 { /* Styling for threads preview and first message card */
+.container-3i3IzO, .card-PQEqCK, .submitContainer_b4471d .channelTextArea_c27a51.channelTextArea__56a36, div.container_dbadf5 .wrapper_efe67f { /* Styling for threads preview, first message card, and server invites */
     background-color: var(--background-tertiary);
     box-shadow: var(--box-shadow);
 }
@@ -321,4 +321,14 @@ ul.content__23cab[aria-label="Direct Messages"]:nth-child(2) .interactive__776ee
 
 .wrapper_fbbb73 {   /* Box shadow for "Follow to get this channel's updates in your own server." wrapper */
     box-shadow: var(--box-shadow);
+}
+
+.header__60bef, .container__10dc7, .scrollerContainer_bf5dbd, .container__7590f { /* Background color for channel browsing page */
+    background-color: var(--background-primary) !important;
+}
+
+.search__4a09e.container__7712a.medium__0fb5d, .container__7590f .container__6a848, .optionButtonWrapper__4072c  { /* Styling for channel browsing search bar and cards */
+    background-color: var(--background-tertiary);
+    box-shadow: var(--box-shadow);
+    border: none;
 }

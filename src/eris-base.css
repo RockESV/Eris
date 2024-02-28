@@ -186,6 +186,10 @@ ul.content__23cab[aria-label="Direct Messages"]:nth-child(2) .interactive__776ee
     background-color: transparent;
 }
 
+.nowPlayingColumn_f5023f .itemCard__1f162 .section_efc22d {
+    padding: 12px 0 0 0;
+}
+
 .scroller__00e7e { /* Removes divider between Friends and Active Now */
     border-left: none;
 }
